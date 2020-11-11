@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\SeatingExercise\bin\Debug\netcoreapp3.1\SeatingExercise.exe
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\SeatingExercise\bin\Debug\netcoreapp3.1\SeatingExercise.deps.json
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\SeatingExercise\bin\Debug\netcoreapp3.1\SeatingExercise.runtimeconfig.json
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\SeatingExercise\bin\Debug\netcoreapp3.1\SeatingExercise.runtimeconfig.dev.json
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\SeatingExercise\bin\Debug\netcoreapp3.1\SeatingExercise.dll
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\SeatingExercise\bin\Debug\netcoreapp3.1\SeatingExercise.pdb
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\SeatingExercise\obj\Debug\netcoreapp3.1\SeatingExercise.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\SeatingExercise\obj\Debug\netcoreapp3.1\SeatingExercise.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\SeatingExercise\obj\Debug\netcoreapp3.1\SeatingExercise.AssemblyInfo.cs
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\SeatingExercise\obj\Debug\netcoreapp3.1\SeatingExercise.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\SeatingExercise\obj\Debug\netcoreapp3.1\SeatingExercise.dll
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\SeatingExercise\obj\Debug\netcoreapp3.1\SeatingExercise.pdb
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\SeatingExercise\obj\Debug\netcoreapp3.1\SeatingExercise.genruntimeconfig.cache

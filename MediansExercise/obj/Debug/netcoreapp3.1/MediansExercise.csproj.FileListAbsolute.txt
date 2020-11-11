@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\MediansExercise\bin\Debug\netcoreapp3.1\MediansExercise.exe
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\MediansExercise\bin\Debug\netcoreapp3.1\MediansExercise.deps.json
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\MediansExercise\bin\Debug\netcoreapp3.1\MediansExercise.runtimeconfig.json
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\MediansExercise\bin\Debug\netcoreapp3.1\MediansExercise.runtimeconfig.dev.json
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\MediansExercise\bin\Debug\netcoreapp3.1\MediansExercise.dll
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\MediansExercise\bin\Debug\netcoreapp3.1\MediansExercise.pdb
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\MediansExercise\obj\Debug\netcoreapp3.1\MediansExercise.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\MediansExercise\obj\Debug\netcoreapp3.1\MediansExercise.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\MediansExercise\obj\Debug\netcoreapp3.1\MediansExercise.AssemblyInfo.cs
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\MediansExercise\obj\Debug\netcoreapp3.1\MediansExercise.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\MediansExercise\obj\Debug\netcoreapp3.1\MediansExercise.dll
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\MediansExercise\obj\Debug\netcoreapp3.1\MediansExercise.pdb
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\MediansExercise\obj\Debug\netcoreapp3.1\MediansExercise.genruntimeconfig.cache

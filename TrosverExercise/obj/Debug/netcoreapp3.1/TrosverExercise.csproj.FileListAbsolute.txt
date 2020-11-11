@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\TrosverExercise\bin\Debug\netcoreapp3.1\TrosverExercise.exe
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\TrosverExercise\bin\Debug\netcoreapp3.1\TrosverExercise.deps.json
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\TrosverExercise\bin\Debug\netcoreapp3.1\TrosverExercise.runtimeconfig.json
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\TrosverExercise\bin\Debug\netcoreapp3.1\TrosverExercise.runtimeconfig.dev.json
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\TrosverExercise\bin\Debug\netcoreapp3.1\TrosverExercise.dll
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\TrosverExercise\bin\Debug\netcoreapp3.1\TrosverExercise.pdb
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\TrosverExercise\obj\Debug\netcoreapp3.1\TrosverExercise.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\TrosverExercise\obj\Debug\netcoreapp3.1\TrosverExercise.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\TrosverExercise\obj\Debug\netcoreapp3.1\TrosverExercise.AssemblyInfo.cs
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\TrosverExercise\obj\Debug\netcoreapp3.1\TrosverExercise.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\TrosverExercise\obj\Debug\netcoreapp3.1\TrosverExercise.dll
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\TrosverExercise\obj\Debug\netcoreapp3.1\TrosverExercise.pdb
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\TrosverExercise\obj\Debug\netcoreapp3.1\TrosverExercise.genruntimeconfig.cache

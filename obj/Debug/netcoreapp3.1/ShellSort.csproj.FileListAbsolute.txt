@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.exe
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.deps.json
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.runtimeconfig.json
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.runtimeconfig.dev.json
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.dll
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.pdb
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.AssemblyInfo.cs
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.dll
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.pdb
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.genruntimeconfig.cache

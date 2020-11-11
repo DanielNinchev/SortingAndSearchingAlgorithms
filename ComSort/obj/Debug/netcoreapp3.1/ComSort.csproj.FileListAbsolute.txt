@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\ComSort\bin\Debug\netcoreapp3.1\ComSort.exe
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\ComSort\bin\Debug\netcoreapp3.1\ComSort.deps.json
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\ComSort\bin\Debug\netcoreapp3.1\ComSort.runtimeconfig.json
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\ComSort\bin\Debug\netcoreapp3.1\ComSort.runtimeconfig.dev.json
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\ComSort\bin\Debug\netcoreapp3.1\ComSort.dll
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\ComSort\bin\Debug\netcoreapp3.1\ComSort.pdb
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\ComSort\obj\Debug\netcoreapp3.1\ComSort.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\ComSort\obj\Debug\netcoreapp3.1\ComSort.AssemblyInfo.cs
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\ComSort\obj\Debug\netcoreapp3.1\ComSort.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\ComSort\obj\Debug\netcoreapp3.1\ComSort.dll
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\ComSort\obj\Debug\netcoreapp3.1\ComSort.pdb
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\ComSort\obj\Debug\netcoreapp3.1\ComSort.genruntimeconfig.cache

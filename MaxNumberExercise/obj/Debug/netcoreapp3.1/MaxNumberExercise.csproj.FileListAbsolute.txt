@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\MaxNumberExercise\bin\Debug\netcoreapp3.1\MaxNumberExercise.exe
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\MaxNumberExercise\bin\Debug\netcoreapp3.1\MaxNumberExercise.deps.json
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\MaxNumberExercise\bin\Debug\netcoreapp3.1\MaxNumberExercise.runtimeconfig.json
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\MaxNumberExercise\bin\Debug\netcoreapp3.1\MaxNumberExercise.runtimeconfig.dev.json
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\MaxNumberExercise\bin\Debug\netcoreapp3.1\MaxNumberExercise.dll
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\MaxNumberExercise\bin\Debug\netcoreapp3.1\MaxNumberExercise.pdb
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\MaxNumberExercise\obj\Debug\netcoreapp3.1\MaxNumberExercise.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\MaxNumberExercise\obj\Debug\netcoreapp3.1\MaxNumberExercise.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\MaxNumberExercise\obj\Debug\netcoreapp3.1\MaxNumberExercise.AssemblyInfo.cs
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\MaxNumberExercise\obj\Debug\netcoreapp3.1\MaxNumberExercise.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\MaxNumberExercise\obj\Debug\netcoreapp3.1\MaxNumberExercise.dll
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\MaxNumberExercise\obj\Debug\netcoreapp3.1\MaxNumberExercise.pdb
+C:\Users\User\source\repos\SimpleSortingAndSearchingAlgorithms\MaxNumberExercise\obj\Debug\netcoreapp3.1\MaxNumberExercise.genruntimeconfig.cache
